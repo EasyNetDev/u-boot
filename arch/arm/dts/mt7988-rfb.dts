@@ -6,6 +6,7 @@
 
 /dts-v1/;
 #include "mt7988.dtsi"
+#include "mt7988-pcie-enable.dtsi"
 #include <dt-bindings/gpio/gpio.h>
 
 / {
